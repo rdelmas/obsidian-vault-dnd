@@ -52,14 +52,8 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 # Table of Contents
 
 %% Begin Waypoint %%
-- **[[Art]]**
-- **[[Customs]]**
-- **[[Economics]]**
-- **[[Education]]**
-- **[[Industry]]**
-- **[[Language]]**
-- **[[Lore]]**
-- **[[Occupations]]**
-- **[[Religion]]**
+- **Monde d'origine**
+	- [[Lore]]
+	- [[Primordium]]
 
 %% End Waypoint %%

@@ -11,6 +11,6 @@ In-world stories, folklore, and other commonly shared information within the wor
 # Table of Contents
 
 %% Begin Waypoint %%
-- [[Primordium]]
+- [[Monde d'origine]]
 
 %% End Waypoint %%

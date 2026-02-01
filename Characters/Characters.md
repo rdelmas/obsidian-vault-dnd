@@ -93,7 +93,7 @@ However...
 # Table of Contents
 
 %% Begin Waypoint %%
-- **[[Images]]**
+- **[[Remote/Characters/Images/Images]]**
 
 - [[Jonas Barrande]]
 

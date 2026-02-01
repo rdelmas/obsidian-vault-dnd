@@ -22,11 +22,11 @@ Une variante du monde d'[[D&D 5E - Eberron - Rising from the Last War.pdf|Eberro
     
 - **Atmosphère :** Un mélange de grandeur Romaine et de déclin industriel, où les ruines technologiques témoignent d'une débauche magique désormais interdite.
 
-
-
 # History
 
 À l'origine, le continent de **Khorvaire** était dominé par le grand royaume de Galifar. Suite à une crise de succession, ce royaume a éclaté en cinq nations rivales, déclenchant la **Dernière Guerre** : un conflit technomantique qui a duré plus d'un siècle.
+
+![[Khorvaire mapemonde.jpg]]
 
 #### Les Forces en Présence
 
@@ -46,23 +46,39 @@ Une variante du monde d'[[D&D 5E - Eberron - Rising from the Last War.pdf|Eberro
 
 Ces maisons de commerce dynastiques tirent leur pouvoir des dracogrammes : des sceaux arcaniques héréditaires qui se manifestent sur certains individus au sein de la famille. Ces marques leur confèrent des capacités magiques limitées mais utiles, liées aux guildes d'artisans que chaque famille contrôle.
 
-|**Maison**|**Race**|**Marque**|**Domaine de Monopole (Techno-magie)**|
-|---|---|---|---|
-|**Cannith**|Humain|Création|Forge, réparation, invention (créateurs des automates).|
-|**Sivis**|Gnome|Scribe|Communications (pierres de message), traduction, notariat.|
-|**Orien**|Humain|Passage|Transport terrestre (Rail de foudre), téléportation.|
-|**Lyrandar**|Demi-Elfe|Tempête|Transport aérien (Navires volants) et maritime, contrôle météo.|
-|**Ghallanda**|Halfelin|Hospitalité|Hôtellerie, sécurité alimentaire, auberges (Le "Gobelet d'Or" ?).|
-|**Jorasco**|Halfelin|Guérison|Services médicaux, hôpitaux, soins magiques.|
-|**Kundarak**|Nain|Sentinelle|Banques, coffres-forts magiques, haute sécurité.|
-|**Deneith**|Humain|Sentinelle|Mercenaires, protection rapprochée, police militaire.|
-|**Tharashk**|Demi-Orc|Recherche|Prospection de cristaux, traque, détectives.|
-|**Phiarlan**|Elfe|Ombre|Divertissement, espionnage (Réseau de l'Ombre).|
-|**Thuranni**|Elfe|Ombre|Assassinat, espionnage (scission de la maison Phiarlan).|
-|**Medani**|Demi-Elfe|Détection|Contre-espionnage, détection de menaces et poisons.|
-|**Vadaliss**|Humain|Dressage|Élevage de bêtes magiques, manipulation génétique animale.|
+| **Maison**    | **Race**  | **Marque**  | **Domaine de Monopole (Techno-magie)**                          |
+| ------------- | --------- | ----------- | --------------------------------------------------------------- |
+| **Cannith**   | Humain    | Création    | Forge, réparation, invention (créateurs des automates).         |
+| **Sivis**     | Gnome     | Scribe      | Communications (pierres de message), traduction, notariat.      |
+| **Orien**     | Humain    | Passage     | Transport terrestre (Rail de foudre), téléportation.            |
+| **Lyrandar**  | Demi-Elfe | Tempête     | Transport aérien (Navires volants) et maritime, contrôle météo. |
+| **Ghallanda** | Halfelin  | Hospitalité | Hôtellerie, sécurité alimentaire, auberges.                     |
+| **Jorasco**   | Halfelin  | Guérison    | Services médicaux, hôpitaux, soins magiques.                    |
+| **Kundarak**  | Nain      | Sentinelle  | Banques, coffres-forts magiques, haute sécurité.                |
+| **Deneith**   | Humain    | Sentinelle  | Mercenaires, protection rapprochée, police militaire.           |
+| **Tharashk**  | Demi-Orc  | Recherche   | Prospection de cristaux, traque, détectives.                    |
+| **Phiarlan**  | Elfe      | Ombre       | Divertissement, espionnage (Réseau de l'Ombre).                 |
+| **Thuranni**  | Elfe      | Ombre       | Assassinat, espionnage (scission de la maison Phiarlan).        |
+| **Medani**    | Demi-Elfe | Détection   | Contre-espionnage, détection de menaces et poisons.             |
+| **Vadaliss**  | Humain    | Dressage    | Élevage de bêtes magiques, manipulation génétique animale.      |
 
 
-# Related
+# Ending the Last War
+
+
+#### La Fracture
+Voyant que la Dernière Guerre allait consumer le monde entier, une coalition secrète de mages de Cyré et d'Aundair a conclu que le monde ne pouvait plus être sauvé.
+Ils mirent alors au point un plan, le **Refuge de Verre**. Si ce monde ne pouvait être sauvé, alors il leur faut lui en substituer un. 
+
+En se basant sur leur connaissances et leur technologie avancée, la coalition mené par le grand artificer et architecte **Aurelius** mis au point après quelques années de recherche **La Trame de Substitution**. 
+La Trame est un plan artificiel, visant à recréer un monde de toute pièce permettant un nouveau départ. 
+
+Pour fonctionner un réseau de neurones magiques dissimulés sur tout Khorvaire est activé drainant l'essence même du monde d'origine pour pour la rediriger vers un noyau central en Cyré. 
+Cette activation n'a pas seulement créé un monde, ils ont "arraché" une portion de réalité et l'ont placée dans une boucle de rétroaction arcanique. 
+Cet événement est connu sous le nom de "Fracture". Et causa la disparation subite de millions d'âme en plus de grande perturbation dans le monde. Mettant un terme temporaire à la "Dernière des guerres"
+
+# Le monde après la Fracture
+
+
 
 

@@ -52,6 +52,8 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 # Table of Contents
 
 %% Begin Waypoint %%
+- **[[La Trame]]**
+	- [[Elysée]]
 - **Monde d'origine**
 	- [[Lore]]
 	- [[Primordium]]

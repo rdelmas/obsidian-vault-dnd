@@ -53,7 +53,16 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 
 %% Begin Waypoint %%
 - **[[La Trame]]**
-	- [[Elysée]]
+	- **[[Aspect Technique]]**
+		- [[Le Noeud Central]]
+		- [[Le Réseau de Noeuds]]
+	- **[[Le Monde]]**
+		- [[Elysée]]
+		- **[[Groups]]**
+		- **[[Life]]**
+		- **[[Locations]]**
+		- **[[Material]]**
+		- **[[Technology]]**
 - **Monde d'origine**
 	- [[Primordium]]
 

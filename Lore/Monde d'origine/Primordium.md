@@ -75,7 +75,9 @@ La Trame est un plan artificiel, visant à recréer un monde de toute pièce per
 
 Pour fonctionner un réseau de neurones magiques dissimulés sur tout Khorvaire est activé drainant l'essence même du monde d'origine pour pour la rediriger vers un noyau central en Cyré. 
 Cette activation n'a pas seulement créé un monde, ils ont "arraché" une portion de réalité et l'ont placée dans une boucle de rétroaction arcanique. 
-Cet événement est connu sous le nom de "Fracture". Et causa la disparation subite de millions d'âme en plus de grande perturbation dans le monde. Mettant un terme temporaire à la "Dernière des guerres"
+Cet événement est connu sous le nom de "Fracture". Et causa la disparation subite de millions d'âme en plus de grande perturbation dans le monde. Mettant un terme temporaire à la "Dernière des guerres".
+
+![[Rupture IMG.jpg]]
 
 # Le monde après la Fracture
 

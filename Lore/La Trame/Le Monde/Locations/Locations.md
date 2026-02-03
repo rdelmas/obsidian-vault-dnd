@@ -44,6 +44,6 @@ Settlements include towns, villages, cities, and other localized groups of perma
 # Table of Contents
 
 %% Begin Waypoint %%
-
+- [[Location- Val-Serein]]
 
 %% End Waypoint %%

@@ -55,7 +55,6 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 - **[[La Trame]]**
 	- [[Elysée]]
 - **Monde d'origine**
-	- [[Lore]]
 	- [[Primordium]]
 
 %% End Waypoint %%

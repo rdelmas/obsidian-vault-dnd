@@ -447,12 +447,12 @@ Si l'Architecte a créé un monde clos, comment le Conservateur a-t-il pu y entr
 
 ## 4. Tableau Comparatif des Deux Mondes
 
-|**Caractéristique**|**La Trame (Monde Artificiel)**|**L'Origine (Monde Réel)**|
-|---|---|---|
-|**Lumière**|Éclatante, dorée, éternelle.|Blafarde, diffuse, sans chaleur.|
-|**Vie**|Foisonnante, magique, intense.|Fragile, décolorée, stérile.|
-|**État de la Matière**|Dense et vibrante (Trop parfaite).|Poreuse, s'effrite en poussière blanche.|
-|**Sentiment**|Douce mélancolie, confort.|Rage sourde, désespoir, faim.|
+| **Caractéristique**    | **La Trame (Monde Artificiel)**    | **L'Origine (Monde Réel)**               |
+| ---------------------- | ---------------------------------- | ---------------------------------------- |
+| **Lumière**            | Éclatante, dorée, éternelle.       | Blafarde, diffuse, sans chaleur.         |
+| **Vie**                | Foisonnante, magique, intense.     | Fragile, décolorée, stérile.             |
+| **État de la Matière** | Dense et vibrante (Trop parfaite). | Poreuse, s'effrite en poussière blanche. |
+| **Sentiment**          | Douce mélancolie, confort.         | Rage sourde, désespoir, faim.            |
 
 > **L'avis du MD :** Ce concept de "Monde Exsangue" est bien plus puissant. Il transforme la quête des joueurs en un dilemme moral insupportable : pour sauver les millions de gens qui "vivent" (même artificiellement) dans la Trame, ils doivent accepter de laisser le monde réel finir de s'évaporer. Ou alors, ils détruisent le seul endroit où la vie est encore belle.
 

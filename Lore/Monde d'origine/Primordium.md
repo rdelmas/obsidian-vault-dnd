@@ -8,7 +8,7 @@ cover-image:
 ---
 
 
-# About : Primordium
+# About : Primordium (Khorvaire)
 
 Une variante du monde d'[[D&D 5E - Eberron - Rising from the Last War.pdf|Eberron]], au moment de la **Dernière Guerre**
 
@@ -81,6 +81,29 @@ Cet événement est connu sous le nom de "Fracture". Et causa la disparation sub
 
 # Le monde après la Fracture
 
+Primordium se réveil sous une aube grise. Partout la couleur et la vitalités ont été aspirées.
+Le ciel est d'un blanc laiteux permanent, les plantes sont translucides et cassantes comme du verre, l'eau à perdu son goût. 
+Il ne s'agit pas d'une pollution, mais d'une Anémie Ontologique. La Trame agit comme une pompe à vide sur Eberron. Pour maintenir l'éclat des plaines et la chaleur du soleil dans l'Elysée elle vole les propriétés physique du monde d'origine.
 
+#### L'impact : Le Grand Dépérissement
+Une frange immense de la population est supposément portée disparue, après une période de choc ce qui en reste s'est regroupé pour assurer sa survie. 
+L'impact de la Fracture sur le monde est quotidien et cruel. 
 
+- **Les Récoltes Fantômes :** Les graines germent, mais elles ne contiennent aucune substance nutritive. On peut manger à sa faim et mourir d'inanition parce que "l'essence" de la nourriture a été drainée vers la Trame.
+    
+- **La Maladie de l'Oubli :** Puisque la Trame utilise les souvenirs et les âmes pour se stabiliser, les survivants de l'Origine perdent peu à peu leurs souvenirs. Ils oublient le nom de leurs enfants, leur propre histoire... ils deviennent des coquilles vides.
+    
+- **La Haine du "Paradis Parasite" :** Les survivants voient parfois, lors de nuits de "Basse Trame", le reflet du monde artificiel briller dans le ciel comme un mirage insultant. Ils savent que chaque rire dans la Trame est payé par un soupir dans leur monde.
+    
 
+>Le monde est qualifié d'**Exsangue**.
+>La vie sur Eberron est devenu un supplice perpétuel, beaucoup parmi les plus faibles ont préféré se laisser mourir.
+
+| **Caractéristique**    | **La Trame (Monde Artificiel)**    | **L'Origine (Monde Réel)**               |
+| ---------------------- | ---------------------------------- | ---------------------------------------- |
+| **Lumière**            | Éclatante, dorée, éternelle.       | Blafarde, diffuse, sans chaleur.         |
+| **Vie**                | Foisonnante, magique, intense.     | Fragile, décolorée, stérile.             |
+| **État de la Matière** | Dense et vibrante (Trop parfaite). | Poreuse, s'effrite en poussière blanche. |
+| **Sentiment**          | Douce mélancolie, confort.         | Rage sourde, désespoir, faim.            |
+
+![[monde Exsangue IMG.png]]

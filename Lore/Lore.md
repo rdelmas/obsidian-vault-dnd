@@ -57,13 +57,13 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 		- [[Le Noeud Central]]
 		- [[Le Réseau de Noeuds]]
 	- **[[Le Monde]]**
-		- [[Elysée]]
 		- **[[Groups]]**
 		- **[[Life]]**
 		- **[[Locations]]**
 		- **[[Material]]**
+		- [[Ordyn]]
 		- **[[Technology]]**
 - **Monde d'origine**
-	- [[Primordium]]
+	- [[Khorvaire]]
 
 %% End Waypoint %%

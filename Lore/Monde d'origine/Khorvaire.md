@@ -8,7 +8,7 @@ cover-image:
 ---
 
 
-# About : Primordium (Khorvaire)
+# About : Khorvaire
 
 Une variante du monde d'[[D&D 5E - Eberron - Rising from the Last War.pdf|Eberron]], au moment de la **Dernière Guerre**
 

@@ -93,8 +93,7 @@ However...
 # Table of Contents
 
 %% Begin Waypoint %%
-- **[[Remote/Characters/Images/Images]]**
-
-- [[Jonas Barrande]]
+- [[Character - Arawai]]
+- [[Character - Jonas Barrande]]
 
 %% End Waypoint %%

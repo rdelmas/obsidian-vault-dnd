@@ -9,7 +9,7 @@ char_status:
 ---
 > [!infobox]
 > # `Jonas Barrande`
-> ![[Jonas Barrande.png|200]]
+> ![[Jonas Barrande IMG.png|200]]
 > ###### About
 > | Titles | Le Gardien des Reflets  |
 > | ---- | ---- |

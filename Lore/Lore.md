@@ -57,11 +57,13 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 		- [[Le Noeud Central]]
 		- [[Le Réseau de Noeuds]]
 	- **[[Le Monde]]**
+		- **[[Characters]]**
 		- **[[Groups]]**
 		- **[[Life]]**
 		- **[[Locations]]**
 		- **[[Material]]**
 		- [[Ordyn]]
+		- **[[Society]]**
 		- **[[Technology]]**
 - **Monde d'origine**
 	- [[Khorvaire]]

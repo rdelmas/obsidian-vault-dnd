@@ -47,9 +47,15 @@ Voici un plan approximatif de Val-Serein pour en donner la configuration génér
 
 
 
-# Significant locations in Val-Serein
+# Centres d'intérêts à  Val-Serein
 
+**La Taverne "La Promise du Soir" :** Évoquant le rendez-vous que l'on attend toute la journée après le travail aux champs c'est le cœur social du village où les locaux partagent les ragots et les voyageurs leurs récits de route.
 
+**La Forge d'Harlan :** Tenue par un nain Harlan, ancien aventurier à la retraite avec une jambe en moins. C'est l'endroit où l'on répare les outils et parfois des armes et ou l'on vient parfois pour entendre une des aventures d'Harlan à qui le bon vieux temps manque souvent.
+
+**Le Magasin du Village :** Le lieux ou les aventuriers peuvent refaire le plein en denrées et objets essentiels. Tenu par un  couple de halfelins joyeux et curieux qui savent tout sur tout le monde. Ils sont toujours les premiers à offrir leur conseils et également mais aussi à mettre leur nez dans vos affaires.
+
+**Le Temple d'Arawai :** Un sanctuaire modeste dédié à la déesse des moissons. Fait inhabituel : une guilde de voleurs y mène ses activités en secret
 
 # Residents
 

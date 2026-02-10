@@ -25,7 +25,7 @@ char_affiliation: Panthéon
 
 # A propos d'Arawai
 
-**Arawai** est la déesse de la fertilité, de l'abondance et de la vie (en particulier de la flore). Elle enseigne que la nature sauvage recèle d'immenses ressources qui soutiennent et renforcent la civilisation. Sœur de Balinor et du Dévoreur, Arawai est également la mère de la Furie (née du viol qu'elle a subi de la part du Dévoreur, selon les textes religieux de l'**Hôte Souverain**).
+**Arawai** est la déesse de la fertilité, de l'abondance et de la vie (en particulier de la flore). Elle enseigne que la nature sauvage recèle d'immenses ressources qui soutiennent et renforcent la civilisation. Sœur de Balinor et du Dévoreur, Arawai est également la mère de la Furie (née du viol qu'elle a subi de la part du Dévoreur, selon les textes religieux de l'**Ost Souverain**).
 
 #### Culte
 Le culte d'Arawai s'exprime avant tout par le labeur. Semer est une prière. L'art des sages-femmes est un sacrement. Partager son repas est un rite. Les voyageurs déposent des offrandes dans des sanctuaires forestiers avant de s'aventurer en terres sauvages. Les fermiers bénissent leurs outils. Les parents murmurent son nom au-dessus des nouveau-nés. Les rôdeurs nouent des cordelettes aux branches des arbres. Les herboristes brûlent les enveloppes de leurs récoltes. Les offices solennels se tiennent généralement en plein air ou dans des temples jardins, et sont marqués par des offrandes de semis, le partage du pain, des bénédictions de fertilité et des invocations pour la clémence du temps.
@@ -41,7 +41,7 @@ Ses prêtres enseignent souvent qu’Arawai ne règne pas sur la nature sauvage 
 L'iconographie la dépeint le plus souvent comme une femme demie elfe, parfois comme une humaine ou halfeline, et en de plus rare occasion en dragon de bronze.
 ![[Arawai IMG.png|400]]
 #### Symbole & Sigil
-Arawai est le plus souvent représentée par un épi de blé, une branche fleurie ou une gerbe liée par de la ficelle. Dans l'iconographie de l'Hôte, son aspect de l'octogramme est fréquemment façonné en bronze, en cuivre et en émail vert.
+Arawai est le plus souvent représentée par un épi de blé, une branche fleurie ou une gerbe liée par de la ficelle. Dans l'iconographie de l'Ost, son aspect de l'octogramme est fréquemment façonné en bronze, en cuivre et en émail vert.
 
 Les sanctuaires incorporent souvent des éléments vivants : des plantes grimpantes tressées sur des structures, de petits jardins, des bols de semences ou des lampes de foyer éternelles abritées par des feuilles.
 
@@ -81,7 +81,7 @@ Ces célébrations sont généralement des festivités joyeuses et communautaire
 
 On croit qu'Arawai œuvre sans relâche à la perpétuation de la vie sous toutes ses formes bienveillantes : des populations prospères, des terres fertiles, des climats stables et la préservation des lieux où la croissance peut s'épanouir.
 
-Les mystiques de l'Hôte Souverain enseignent qu'elle s'oppose non seulement à la famine et aux flétrissures, mais aussi à l'avancée rampante de la stérilité spirituelle — le désespoir, l'isolement et les cultures qui consomment sans prendre soin.
+Les mystiques de l'Ost Souverain enseignent qu'elle s'oppose non seulement à la famine et aux flétrissures, mais aussi à l'avancée rampante de la stérilité spirituelle — le désespoir, l'isolement et les cultures qui consomment sans prendre soin.
 
 Certaines traditions ésotériques affirment qu'Arawai travaille discrètement à panser la blessure ancestrale infligée au monde par les excès du Dévoreur, semant le renouveau là où régnait autrefois la dévastation.
 

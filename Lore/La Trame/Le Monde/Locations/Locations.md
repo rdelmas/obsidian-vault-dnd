@@ -44,6 +44,7 @@ Settlements include towns, villages, cities, and other localized groups of perma
 # Table of Contents
 
 %% Begin Waypoint %%
+- [[Location- La Promise du Soir]]
 - [[Location- Val-Serein]]
 
 %% End Waypoint %%

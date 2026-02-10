@@ -49,7 +49,7 @@ Voici un plan approximatif de Val-Serein pour en donner la configuration génér
 
 **La Forge d'Harlan :** Tenue par un nain [[Harlan Piedacier]], ancien aventurier à la retraite avec une jambe en moins. C'est l'endroit où l'on répare les outils et parfois des armes et ou l'on vient parfois pour entendre une des aventures d'Harlan à qui le bon vieux temps manque souvent.
 
-**Le Magasin du Village :** Le lieux ou les aventuriers peuvent refaire le plein en denrées et objets essentiels. Tenu par un  couple de halfelins joyeux et curieux qui savent tout sur tout le monde. Ils sont toujours les premiers à offrir leur conseils et également mais aussi à mettre leur nez dans vos affaires.
+**Le Sac à Malice :** Magasin général du village, c'est le lieux ou les aventuriers peuvent refaire le plein en denrées et objets essentiels. Tenu par un  couple de halfelins joyeux et curieux qui savent tout sur tout le monde. Ils sont toujours les premiers à offrir leur conseils et également mais aussi à mettre leur nez dans vos affaires.
 
 **Le Temple d'Arawai :** Un sanctuaire modeste dédié à [[Character - Arawai]]. 
 Fait inhabituel : une guilde de voleurs y mène ses activités en secret
@@ -70,4 +70,8 @@ Fait inhabituel : une guilde de voleurs y mène ses activités en secret
 
 # Autres Notes
 
+- **L'ironie du Temple d'Arawai :** Arawai étant la divinité de l'abondance dans Eberron, il est très malin que la guilde des voleurs s'y cache (là où il y a de l'abondance, il y a de quoi prendre).
 
+- **Harlan Piedacier :** C'est ton "donneur de quêtes" idéal. En tant qu'ancien aventurier, il est peut-être le seul à avoir trouvé des "reliques" étranges (des pièces de techno-magie de Cyré) sans trop savoir ce que c'est.
+    
+- **La Cuverie et le Maire :** C'est le centre économique. Si un "glitch" ou une anomalie de la Trame doit apparaître, la roue à aube sur le Canal Serein est un endroit stratégique.

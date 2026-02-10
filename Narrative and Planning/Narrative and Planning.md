@@ -18,6 +18,7 @@ The Narrative and Planning folder is meant to contain the authorial content of y
 %% Begin Waypoint %%
 - **[[About]]**
 - **[[Session Notes]]**
-- **[[Storylines]]**
+- **Storylines**
+	- [[Les secrets de l'Affinement]]
 
 %% End Waypoint %%

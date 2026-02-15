@@ -59,14 +59,14 @@ Fait inhabituel : une guilde de voleurs y mène ses activités en secret
 
 # Résidents notables
 
-| Nom                        | Rôle                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| [[Roric Garnet]]           | Maire du village et président de la Cuverie de l'Ondée                                |
-| [[Soeur Emeline]]          | Prêtresse du temple d'Arawai                                                          |
-| [[Harlan Piedacier]]       | Forgeron du village, ancien aventurier émérite du royaume                             |
-| [[Louis Lafaille "Loula"]] | Tenancier de la Promise du Soir                                                       |
-| [[Elos & Vaelle Havenman]] | Gérants de la boutique du village                                                     |
-| [[Gérald de Flamberge]]    | Régisseur du [[chevalier de Saint-Bris]] qui est chargé de la sécurité dans la région |
+| Nom                           | Rôle                                                                                  |
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| [[Roric Garnet]]              | Maire du village et président de la Cuverie de l'Ondée                                |
+| [[Soeur Emeline]]             | Prêtresse du temple d'Arawai                                                          |
+| [[Harlan Piedacier]]          | Forgeron du village, ancien aventurier émérite du royaume                             |
+| [[Louis Lafaille "Loula"]]    | Tenancier de la Promise du Soir                                                       |
+| [[Pippo & Vaelle Brandebouc]] | Gérants de la boutique du village                                                     |
+| [[Gérald de Flamberge]]       | Régisseur du [[chevalier de Saint-Bris]] qui est chargé de la sécurité dans la région |
 
 # Autres Notes
 

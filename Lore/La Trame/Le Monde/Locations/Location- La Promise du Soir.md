@@ -141,4 +141,4 @@ Au moment où les PJ arrivent ou commencent leur session, l'ambiance à **La Pro
 - **L'Absence de la "Promise" :** La statue en bois sur la devanture semble soudainement bien triste. Le silence laissé par le rire de Mila est assourdissant pour les habitués.
 
 #### La nuit à la Taverne
-Si les joueurs dorment sur place, ils pourraient remarquer que **Loula**, tard le soir, monte dans le grenier avec une lanterne. Il ne va pas dormir ; il va vérifier une vieille trappe verrouillée sous un tapis. C'est là qu'il cache les quelques objets d'Eldon qu'il a réussi à sauver ou récupérer depuis,  dont le fameux carnet d'Eldon.
+Si les joueurs dorment sur place, ils pourraient remarquer que **Loula**, tard le soir, descends dans sa cave avec une lanterne. Il ne va pas dormir ; il va vérifier une vieille trappe verrouillée sous un tapis. C'est là qu'il cache les quelques objets d'Eldon qu'il a réussi à sauver ou récupérer depuis,  dont le fameux carnet d'Eldon.

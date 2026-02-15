@@ -6,6 +6,7 @@ tags:
 # Side Quest : Les secrets de l'Affinement
 
 **Le problème :** Louis appelle les joueurs à l'écart. Le **Brassin d'Or** actuel est excellent, mais Louis sait qu'il manque un détail. En rangeant le grenier de la taverne, il a trouvé un vieux calepin d'Eldon. Une note griffonnée mentionne un « caveau de refroidissement naturel » situé dans une ancienne grotte abandonnée le long de la rivière vers le Bois Creux, où Eldon laissait vieillir ses fûts de réserve.
+Dans la galerie d'Eldon sur le mur, un tableau montre justement ce dernier, près d'une galerie, on peut apercevoir une sorte d'obélisque ancien. 
 
 # Objectifs
 

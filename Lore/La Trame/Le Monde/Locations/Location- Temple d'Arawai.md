@@ -74,7 +74,30 @@ Emeline ne joue pas les mystérieuses. Elle est la voisine idéale, celle à qui
 
 # Les Offices et Services
 
+#### Services
+| **Service**          | **Coût (PO)** | **Effet Mécanique**                                           |
+| -------------------- | ------------- | ------------------------------------------------------------- |
+| Soin des Blessures   | 10 po         | Rend $1d8 + 4$ PV (Niveau 1).                                 |
+| Soin des Maladies    | 40 po         | Supprime une maladie ou l'état _Empoisonné_.                  |
+| Bénédiction d'Arawai | 25 po         | Sort _Bless_ sur 3 personnes pendant 1 heure.                 |
+| Rappel à la Vie      | 500 po+       | _Raise Dead_ (nécessite un diamant de 500 po, très rare ici). |
+- **Huile Consacrée d'Arawai (50 po) :** Une fiole d'huile spéciale. Appliquée sur une arme, elle inflige $+1d4$ de dégâts de _Radiant_ contre les bêtes et les monstruosités pendant 1 minute.
+    
+- **Encens de Sérénité (10 po) :** Brûlé lors d'un repos long, il permet de récupérer un dé de vie supplémentaire gratuitement.
 
+> **Note de MJ :** Si un PJ possède une **Larme de Fer** et la montre discrètement lors de la demande d'un service, Sœur Emeline applique une **réduction de 50%** ou offre une information gratuite sur les mouvements de caravanes au carrefour.
+
+#### Offices religieux
+**Calendrier de Therendor
+
+| **Jour** | **Cérémonie Officielle**    | **Impact pour les Joueurs / Secret**                                 |
+| -------- | --------------------------- | -------------------------------------------------------------------- |
+| Sul 1    | Bénédiction des Semailles   | Grande affluence. Idéal pour faire les poches.                       |
+| Wir 4    | L'Onction des Lanternes     | Emeline bénit les stocks d'huile. (Transfert massif vers la guilde). |
+| Zor 12   | Jeûne d'Arawai              | Le temple est calme. Accès facile aux appartements privés.           |
+| Sar 15   | Fête de la Terre Grasse     | Banquet communautaire. Les gardes de Roric sont souvent ivres.       |
+| Mol 20   | Rituel du Grain de Plomb    | Cérémonie mineure (en réalité, distribution des "Larmes de Fer").    |
+| Far 28   | Veillée de la Nouvelle Sève | Prière toute la nuit. Beaucoup de lumière et de monde au temple.     |
 
 # Le Secret du Temple
 

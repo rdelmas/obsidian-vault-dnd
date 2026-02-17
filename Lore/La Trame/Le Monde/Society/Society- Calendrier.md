@@ -29,7 +29,7 @@ Voici un tableau des équivalence pour la Trame :
 | Galifar   | Valérius l'Architecte |
 | Khorvaire | Ardyn                 |
 
-# Structure
+# Equivalence & Structure
 
 #### Hebdomadaire
 |**Nom du jour**|**Équivalent**|
@@ -56,3 +56,12 @@ Voici un tableau des équivalence pour la Trame :
 | 10    | **Sypheros**  | Automne    | Sypheros (Ombre)       | Écriture                   |
 | 11    | **Aryth**     | Automne    | Aryth (Scribe)         | Guardien                   |
 | 12    | **Vult**      | Hiver      | Vult (Garde)           | Création                   |
+#### Structuration
+Tous les mois font exactement 28 jours, et commence tous par un Sul.
+
+|**Sul**|**Mol**|**Zol**|**Wir**|**Zor**|**Far**|**Sar**|
+|---|---|---|---|---|---|---|
+|1|2|3|4|5|6|7|
+|8|9|10|11|12|13|14|
+|15|16|17|18|19|20|21|
+|22|23|24|25|26|27|28|

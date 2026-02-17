@@ -47,6 +47,7 @@ Settlements include towns, villages, cities, and other localized groups of perma
 - [[Location- La Forge d'Harlan]]
 - [[Location- La Promise du Soir]]
 - [[Location- Le Sac à Malice]]
+- [[Location- Temple d'Arawai]]
 - [[Location- Val-Serein]]
 
 %% End Waypoint %%

@@ -90,13 +90,15 @@ Sous les dalles propres et les tapis tressés se cache une réalité plus sombre
 Le Temple n'est pas juste une planque, c'est le **centre de tri** du village. Et dans ces boyaux souterrains se cache leur repaire.
 Les ruines ne sont pas un long tunnel continu, mais des **tronçons** de l'Ancien Empire. Sous le village, il reste une section majeure que la Guilde a colonisée, mais elle s'arrête brutalement à cause d'éboulements survenus depuis longtemps.
 
-- **Identification :** les voleurs s'identifient entre eux grâce à une petite pièce de métal, de la taille d'une phalange, forgée dans un fer sombre et mat.  Sa forme est celle d'une **goutte d'huile stylisée**, parfaitement lisse d'un côté et légèrement rugueuse de l'autre.
+- **Identification :** les voleurs s'identifient entre eux grâce à une petite pièce de métal, de la taille d'une phalange, forgée dans un fer sombre et mat.  Sa forme est celle d'une goutte d'huile stylisée, parfaitement lisse d'un côté et légèrement rugueuse de l'autre **La Larme de Fer**.
 	- **L'aspect :** Elle n'a ni trou pour être portée en pendentif, ni gravure religieuse. Elle ressemble à un simple poids de balance, un rivet de cuirasse ou un déchet de forge.
     
 	- **Le secret :** Sur la tranche de la goutte, il y a **trois petites encoches** presque invisibles, faites à la lime. Ces encoches permettent d'identifier le rang ou l'unité du porteur.
 
+![[Larme de Fer.jpg]]
+
 #### Le réseau
-Cette guilde est une branche locale du clan **Boromar** qui gère le crime organisé dans la région, ils sont basé à la capitale mais envoi régulièrement des membres sur tout leur réseau.
+Cette guilde est une branche locale du clan **Boromar** qui gère le crime organisé dans la région, ils sont basé à la capitale mais envoient régulièrement des membres sur tout leur réseau.
 
 # Autres Notes
 
@@ -119,6 +121,9 @@ Pour les joueurs, le temple regorge de détails qui jurent avec la piété habit
 - **Les Offrandes Lourdes :** Certains paysans déposent des coffres d'offrandes si lourds qu'il faut trois hommes pour les porter. Étrange pour de simples dons de grain, non ?
 
 #### Accéder à la guilde
-**Par intrusion :** En trouvant l'une des entrée et en s'y introduisant discrètement.
+**Par intrusion :** En trouvant l'une des entrée et en s'y introduisant discrètement. A vos risques et périls.
 
-**Par la grande porte :** En récupérant l'insigne des voleurs il est possible de s'y infiltrer.
+**Par la grande porte :** En récupérant l'insigne des voleurs il est possible de s'y infiltrer. Pour le récupérer voici quelques options :
+- Sur une des personnes potentiellement dépouillées par les PJ
+- Sur un corps en lisière de forêt
+- Perdue par un des voleurs, près du temple ou de l'une des entrées.

@@ -19,7 +19,6 @@ cover-image:
 
 # Description
 
-![[Pasted image 20260211000251.png]]
 Le sanctuaire du repos. Son nom évoque la récompense après le labeur sous le soleil des champs d'Ondée Solaire. 
 L'imposante structure de la taverne se dresse comme un phare de chaleur au cœur de la pénombre de Val-Serein. 
 C'est une bâtisse qui respire la prospérité et le confort, combinant une base de pierre de taille robuste avec des étages supérieurs aux colombages complexes et élégants, dont le bois semble avoir une teinte ambrée naturelle, presque comme s'il était imprégné de bière et de miel.
@@ -31,6 +30,8 @@ Un lierre épais et verdoyant grimpe le long des façades, s'enroulant autour de
 Sur le chemin pavé menant à l'entrée, de lourds fûts de chêne — marqués sans doute du sceau de la **Cuverie de l'Ondée** — attendent d'être mis en perce. Ils sont la promesse muette que le **Brassin d'Or** coule à flots à l'intérieur.
 
 Les toits escarpés et les multiples pignons donnent au bâtiment une silhouette imposante, presque noble pour un simple village agricole, rappelant subtilement l'héritage architectural de l'ancien Empire de Cyré, bien que les habitants n'en aient plus conscience.
+
+![[Pasted image 20260211000251.png|500]]
 
 ##### L'Enseigne : La Figure de Proue de la Vallée
 

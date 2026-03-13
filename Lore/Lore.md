@@ -63,6 +63,9 @@ This is helpful if you want a society-specific breakdown of cultural artifacts, 
 		- **[[Life]]**
 		- **[[Locations]]**
 		- **[[Material]]**
+		- **[[Monster]]**
+			- [[Boss - Emeline]]
+			- [[Boss - Grabuge]]
 		- **[[Society]]**
 			- [[Society- Calendrier]]
 		- **[[Technology]]**

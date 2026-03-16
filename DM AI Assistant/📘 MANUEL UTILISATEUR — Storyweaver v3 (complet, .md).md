@@ -316,16 +316,17 @@ Le Storyweaver peut produire un bloc **CSV** pour append.
 - `02_Settings_Mechanics.md`
 - `03_Reference_Ledger.md`
 - `04_Lore_Validated/`
-- `05_Lore_Pending/`
-- `06_Session_Summaries/`
-- `07_Index.csv`
+- `05_Players/`
+- `06_Lore_Pending/`
+- `07_Session_Summaries/`
+- `08_Index.csv`
 
 **Procédure** :
 
 1. Nouvelle conversation.
 2. Colle `01_Master_Prompt.md`.
-3. Demande le chargement logique : références validées + lore validé + pending (comme pending).
-4. Colle `02_Settings_Mechanics.md` si utilisé.
+3. Colle `02_Settings_Mechanics.md` si utilisé.
+4. Demande le chargement logique : références validées + lore validé + personnages + lore pending.
 5. **Canon Check** (10–15 puces).
 6. `SESSION START — Agenda: [...]`.
 

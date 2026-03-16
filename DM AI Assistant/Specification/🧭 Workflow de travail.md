@@ -84,7 +84,7 @@ Tu demandais ce que c’est : c’est un **mini-moteur d’interprétation** qui
 
 ---
 
-# 🧩 **Workflow complet (avec emplacement optimal des personnages)**
+# 🧩 **Workflow complet 
 
 Voici ta pipeline de travail complète, avec l'étape d’intégration PJ ajoutée.
 
@@ -171,7 +171,7 @@ Le Storyweaver les parse et les intègre dans la mémoire du canon.
 
 ---
 
-## 🟦 **6. Charger le Pending Lore (05_Lore_Pending)**
+## 🟦 **6. Charger le Pending Lore (06_Lore_Pending)**
 
 Facultatif — utile si tu travailles sur des éléments non encore figés.
 

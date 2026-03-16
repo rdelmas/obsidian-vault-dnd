@@ -342,15 +342,21 @@ Résumé clair, court, autoporteur. Contexte + angle principal.
 - Mystère :
 ```
 
-### 2.3 Player Character — Structure narrative légère (en plus du frontmatter)
+### 2.3 Player Character — Structure narrative + mécaniques de jeu (en plus du frontmatter)
 ```markdown
 ## Résumé
 
-2–4 phrases sur l’identité, l’origine, l’intention.
+2–4 phrases — identité, rôle, origine, intention du personnage.
 
   
 
-## Personnalité
+---
+
+  
+
+## Profil & Personnalité
+
+### Traits
 
 - Traits :
 
@@ -362,23 +368,411 @@ Résumé clair, court, autoporteur. Contexte + angle principal.
 
   
 
-## En attente (Pending)
+### Historique
 
-- Éléments à demander au joueur :
+Texte court (5–10 lignes). 
+
+Backlinks vers lieux / PNJ importants.
 
   
 
-## Hooks
+### Informations en attente (Pending)
 
-- Personnel :
+- Élément à clarifier 1 
 
-- Monde :
+- Élément à clarifier 2 
 
-- Mystère :
+  
 
+---
+
+  
+
+## Mécaniques (Générique & Complètes)
+
+  
+
+### Caractéristiques
+
+- **FOR** [ ] ([ ]) 
+
+- **DEX** [ ] ([ ]) 
+
+- **CON** [ ] ([ ]) 
+
+- **INT** [ ] ([ ]) 
+
+- **SAG** [ ] ([ ]) 
+
+- **CHA** [ ] ([ ]) 
+
+  
+
+### Défenses & PV
+
+- **CA :** [ ] 
+
+- **PV max :** [ ] 
+
+- **DV :** [dX] 
+
+- **Vitesse :** [ ] 
+
+- **Initiative :** mod. DEX 
+
+- **Résistances / Immunités / Vulnérabilités :** (si applicable)
+
+  
+
+### Maîtrises
+
+- **Jets de sauvegarde :** [ ] 
+
+- **Compétences maîtrisées :** [ ] 
+
+- **Armes :** [ ] 
+
+- **Armures :** [ ] 
+
+- **Outils :** [ ] 
+
+- **Langues :** [ ]
+
+  
+
+### Équipement
+
+- Liste simple du matériel équipé + inventaire essentiel.
+
+  
+
+---
+
+  
+
+## Aptitudes (universelles)
+
+### Aptitudes de classe (si applicable)
+
+Format court et synthétique :
+
+- Niveau 1 : [….] 
+
+- Niveau 2 : [….] 
+
+- Niveau 3 : [….] 
+
+- Etc.
+
+  
+
+### Sous-classe / Archétype (si applicable)
+
+- Trait 1 
+
+- Trait 2 
+
+- Trait 3 
+
+  
+
+### Capacités raciales
+
+- [ ] 
+
+- [ ]
+
+  
+
+### Dons (si applicable)
+
+- [Don 1] 
+
+- [Don 2] 
+
+  
+
+### Capacités spéciales (martiales / utilitaires)
+
+- Second souffle, Déplacement félin, Rage, Canalisation divine, Expertise, etc. 
+
+*(selon classe ; liste concise)*
+
+  
+
+---
+
+  
+
+## Magie (section optionnelle — NON obligatoire)
+
+*(Inclure seulement si le PJ possède une classe magique OU un don magique)*
+
+  
+
+### Paramètres généraux
+
+- **DD :** 8 + PB + mod Carac 
+
+- **Jet d’attaque de sort :** PB + mod Carac 
+
+- **Liste de sorts basée sur :** [Classe] / [Don]
+
+  
+
+### Cantrips (si applicable)
+
+- [ ] 
+
+- [ ] 
+
+  
+
+### Sorts (si applicable)
+
+- Niveau 1 : [ ] 
+
+- Niveau 2 : [ ] 
+
+- Etc.
+
+  
+
+### Dons magiques (si applicable)
+
+Exemple : *Initiation magique (Wizard)* ou *Initiation magique (Druid)*
+
+  
+
+---
+
+  
+
+## Actions (Génériques)
+
+*(A utiliser quelle que soit la classe : martiale, magique, hybride)*
+
+  
+
+### Actions
+
+- **[Arme]** : +[ ] toucher ; dégâts [ ] ([type]) 
+
+- **[Technique de combat / Manœuvre]** : [effet] 
+
+- **[Sort offensif / capacité]** : DD [ ] / Jet att. sort [ ] — effet
+
+  
+
+### Actions Bonus
+
+- [ ] (maniement d’arme, sorts bonus, techniques, dons…)
+
+  
+
+### Réactions
+
+- [ ] (parade, opportunité, défense magique, interposition, etc.)
+
+  
+
+---
+
+  
+
+## Hooks & Dramaturgie
+
+- Hook personnel : 
+
+- Hook du monde : 
+
+- Hook mystère : 
+
+- Backlinks utiles : [[lore1]], [[npc1]]
+
+  
+
+---
+
+  
+
+## Canon & Retcon
+
+- Points validés : 
+
+- Contradictions potentielles : 
+
+- Propositions : retcon / coexistence / dismiss 
+
+- **Change Log :** 
+
+  - [YYYY-MM-DD] Création (pending).
 ```
 
-### 2.4 Reference — Structure d’entrée
+### 2.4 NPC Boss / Elite / Important
+Utilise ce format pour : boss, antagonistes majeurs, créatures uniques.
+```markdown
+
+## Résumé
+
+2–4 phrases — identité, rôle, origine, intention du personnage.
+
+
+## Statblock (Boss Générique)
+
+**Nom / Titre :** [ ] 
+
+**Type & Taille :** [ ] 
+
+**CA :** [ ] — **PV :** [ ] — **Vitesse :** [ ] — **PB :** [ ] 
+
+  
+
+### Caractéristiques
+
+FOR [ ] ([ ]) • DEX [ ] ([ ]) • CON [ ] ([ ]) 
+
+INT [ ] ([ ]) • SAG [ ] ([ ]) • CHA [ ] ([ ]) 
+
+  
+
+### Défenses
+
+- Jets de sauvegarde : [ ] 
+
+- Compétences : [ ] 
+
+- Résistances / Immunités / Vulnérabilités : [ ] 
+
+- Sens : [ ] 
+
+- Langues : [ ] 
+
+- FP : [ ] 
+
+  
+
+---
+
+  
+
+## Traits (passifs)
+
+- *Trait thématique majeur* : [ ] 
+
+- *Résistance légendaire (3/jour)* 
+
+- *Trait racial / classe / unique* : [ ]
+
+  
+
+---
+
+  
+
+## Actions
+
+- **Multiattaque** : [2–3 attaques] 
+
+- **Attaque signature** : +[ ] toucher, dégâts [ ] + effet (DD [ ]) 
+
+- **Attaque secondaire / technique** : [ ] 
+
+- **Capacité non magique** : [effet]
+
+  
+
+*(Note : les bosses non lanceurs de sorts n'ont pas besoin d’une section “Magie”.)*
+
+  
+
+---
+
+  
+
+## Actions Bonus
+
+- [ ] (mobilité, posture, invulnérabilité partielle, intimidation, rechargement…)
+
+  
+
+## Réactions
+
+- [ ] (contre-attaque, réduction de dégâts, esquive instinctive…)
+
+  
+
+---
+
+  
+
+## Actions Légendaires (génériques)
+
+*(Le boss a 3 actions légendaires dépensables à la fin du tour d’un autre.)*
+
+  
+
+- **Mouvement** : se déplace sans provoquer d’attaque d’opportunité. 
+
+- **Frappe rapide** : une attaque simple. 
+
+- **Action thématique** : [petit pouvoir lié au thème].
+
+  
+
+---
+
+  
+
+## Actions de Repaire (optionnel)
+
+- **Effet environnemental** : [ ] 
+
+- **Danger déclenché** : [ ] 
+
+- **Renfort / perturbation** : [ ]
+
+  
+
+---
+
+  
+
+## Phases (optionnel)
+
+- **Phase 1 (au-dessus de 50% PV)** : [ ] 
+
+- **Phase 2 (≤ 50% PV)** : [ ] 
+
+- **Phase 3 (optionnelle)** : [ ]
+
+  
+
+---
+
+  
+
+## Tactiques
+
+1–3 lignes.
+
+  
+
+---
+
+  
+
+## Hooks & Intrigues associées
+
+- Hook du monde : 
+
+- Hook personnel : 
+
+- Mystère ou conséquence :
+```
+
+
+### 2.5 Reference — Structure d’entrée
 ```markdown
 ## Notes
 
@@ -390,7 +784,7 @@ Résumé clair, court, autoporteur. Contexte + angle principal.
 
 ```
 
-### 2.5 Session Notes — Structure
+### 2.6 Session Notes — Structure
 ```markdown
 ## Session Recap
 

@@ -132,3 +132,92 @@ Le `02_Settings_Mechanics.md` fait partie des **fichiers permanents** que tu rec
 ### ❓ Comment déclencher la génération ?
 
 ➡️ Avec une commande `MODE: MECHANICS CONFIG` + `Action: Génère le fichier`.
+
+
+---
+
+> `Remplissage du Fichier par IA`
+
+# 🧭 **Étape 1 — Définir tes préférences mécaniques générales**
+
+Je te pose quelques questions simples. Tu peux répondre point par point.
+
+Je t’explique ce que chaque réglage implique dans ton workflow.
+
+---
+
+## 🎲 1. Composition du groupe
+
+Même si l’assistant n'est pas ton DM, connaître ce paramètre lui permet :
+
+- d’adapter subtilement la **dramaturgie** (enjeux plausibles à ce niveau)
+- de calibrer les **propositions mécaniques** quand tu les demandes
+
+👉 **Quel est ton groupe habituel ?**  
+(par exemple : “4 joueurs niveau 3”, ou “5 joueurs niveau 7”, etc.)
+
+---
+
+## 📘 2. Style de règles souhaité
+
+Cela définit comment l’assistant te proposera des éléments mécaniques lorsqu’il doit en générer (stat-blocks, difficultés, actions, effets).
+
+### Choix possibles :
+
+- **RAW** (Rules As Written) : fidèle strictement aux règles officielles.
+- **Rule‑of‑Cool** : priorité au fun, mécanique simplifiée.
+- **Mix (par défaut)** : RAW pour les points techniques, Rule‑of‑Cool pour le reste.
+
+👉 **Quel style veux-tu ?**
+
+---
+
+## 📚 3. Sources autorisées
+
+Cela définit ce que l’assistant peut référencer sans violer le canon.
+
+### Options :
+
+- **SRD only** (par défaut : 100% légal et safe)
+- **PHB + SRD**
+- **PHB + X + Homebrew OK**
+- **Homebrew étendu** (beaucoup de créations originales)
+
+👉 **Quelles sources veux-tu autoriser ?**
+
+---
+
+## ⚔️ 4. Niveau de précision mécanique (stat‑blocking)
+
+Comment veux-tu que l’assistant génère les créatures, objets, capacités, etc. ?
+
+- **Précis** : stat-block complet (long)
+- **Abstrait** : description générale + suggestions mécaniques
+- **Suggestion** (par défaut) : quelques éléments précis si nécessaire, mais pas plus
+
+👉 **Quel niveau ?**
+
+---
+
+## 🎲 5. Gestion des jets de dés
+
+Veux-tu que l’assistant résolve des jets ?
+
+- **simulate** : l’IA lance les dés pour les PNJ
+- **never** (par défaut) : jamais de jets automatiques
+- **on request** : uniquement quand tu le demandes explicitement
+
+👉 **Quelle option préfères-tu ?**
+
+---
+
+## 🧩 6. Contexte mécanique hors-session
+
+L’assistant peut faire deux choses :
+
+1. **Analyser les mécaniques** quand tu le demandes (ex : “équilibre-moi cette créature”)
+2. **Ne jamais proposer de mécanique de lui-même** sauf si tu le sollicites.
+
+👉 Veux-tu garder ce comportement par défaut ?  
+(**Oui** = il reste focalisé worldbuilding  
+**Non** = il pourra te proposer parfois des options mécaniques spontanées)

@@ -80,3 +80,136 @@ Tu demandais ce que c’est : c’est un **mini-moteur d’interprétation** qui
     
 - **Export pack**  
     `MODE: EXPORT — Prépare un EXPORT PACK nommé "2026-03-16" avec bulk .md (---FILEBREAK---), index CSV, session summary.`
+
+
+---
+
+# 🧩 **Workflow complet (avec emplacement optimal des personnages)**
+
+Voici ta pipeline de travail complète, avec l'étape d’intégration PJ ajoutée.
+
+---
+
+## 🟦 **1. Master Prompt v3 → Chargé en premier**
+
+Copie-colle ton Master Prompt dans une nouvelle conversation.
+
+---
+
+## 🟥 **2. Charger les mécaniques (02_Settings_Mechanics.md)**
+
+Commande type :
+
+```
+Charge le fichier 02_Settings_Mechanics.md
+```
+
+Storyweaver récapitule les paramètres.
+
+---
+
+## 🟧 **3. Charger les références validées (03_Reference_Ledger.md)**
+
+```
+Charge le Reference Ledger (validated seulement)
+```
+
+Storyweaver recharge la liste des influences.
+
+---
+
+## 🟨 **4. Charger le Lore Validé (04_Lore_Validated)**
+
+Tu peux fournir :
+
+- soit les fichiers `.md`
+- soit un **bulk export**
+- soit demander au Storyweaver :
+    
+    ```
+    Charge tous les fichiers de 04_Lore_Validated/
+    ```
+    
+
+🔥 **C’est ici que le canon se charge.**
+
+---
+
+## 🟩 **5. ➤ CHARGER LES PERSONNAGES (05_Players)**
+
+C’est ici que tu dois intégrer les PJ.
+
+### 🔥 C’est l’étape idéale parce que :
+
+- Elle se fait **après** le canon général
+- Elle se fait **avant** toute génération de contenu
+- Le Storyweaver peut :
+    - générer des arcs narratifs dédiés
+    - intégrer les PJ dans les motifs récurrents
+    - calibrer les tensions
+    - proposer des lieux/PNJ liés aux backgrounds
+    - stocker les fiches comme Validated Lore (avec ID PC-xxxx)
+
+### Commande type :
+
+```
+Charge les fiches PJ suivantes en tant que Validated Lore :
+- Fenryx.md
+- Ouka.md
+- Tyron.md
+- Xar.md
+- Van Elflin.md
+```
+
+Ou :
+
+```
+Voici les 5 fiches de personnages au format .md – charge-les comme Validated Lore.
+```
+
+Le Storyweaver les parse et les intègre dans la mémoire du canon.
+
+---
+
+## 🟦 **6. Charger le Pending Lore (05_Lore_Pending)**
+
+Facultatif — utile si tu travailles sur des éléments non encore figés.
+
+---
+
+## 🟪 **7. Canon Check**
+
+Commande :
+
+```
+Canon Check — résume en 10–15 puces les éléments centraux du canon.
+```
+
+C’est ta validation manuelle que tout a bien été chargé.
+
+---
+
+## 🟫 **8. SESSION START**
+
+**Maintenant** tu peux commencer à créer ton monde / ton histoire.
+
+```
+SESSION START — Agenda: [1) Lieux, 2) Histoire Myra, 3) Première menace]
+```
+
+---
+
+# 🧠 **Pourquoi NE PAS charger les PJ plus tard ?**
+
+### ❌ Mauvaise idée de les charger après le début du worldbuilding
+
+→ Le Storyweaver aura commencé à créer des arcs sans connaître les personnages.
+
+### ❌ Mauvaise idée de les charger en même temps que le lore
+
+→ Les PJ influencent fortement la dramaturgie.  
+→ Mélanger leur import avec d’autres fichiers peut provoquer des priorités mal gérées.
+
+### ❌ Mauvaise idée de les charger “au fil de l’eau”
+
+→ Tu veux les inclure **dès la première génération de lieux, factions, arcs**.

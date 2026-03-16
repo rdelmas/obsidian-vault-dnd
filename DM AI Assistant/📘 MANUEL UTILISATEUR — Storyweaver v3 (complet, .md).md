@@ -33,6 +33,10 @@
 
 - 13. Bonnes pratiques & Checklist
 
+- 14. Chargement des données Drive au format .md
+
+
+
   
 
 ---
@@ -352,3 +356,205 @@ Le Storyweaver peut produire un bloc **CSV** pour append.
 - [ ]  Créations en MODE: LORE ENGINE / DRAMATURGIE / SCÈNES
 - [ ]  Validations (VALIDE/PENDING/DISMISS)
 - [ ]  EXPORT PACK généré + sauvegardé dans Drive
+
+---
+
+## 14.📥 CHARGEMENT — Importer du contenu dans Storyweaver
+
+_(Module d’import pour fichiers `.md` depuis Drive, GitHub ou upload direct)_
+
+> Cette section explique **comment importer des fichiers dans Gemini**, puis comment **Storyweaver** (_via ton Master Prompt_) les intègre dans sa mémoire canonique.
+> 
+> Important : **CHARGEMENT** n’est pas un MODE.  
+> C’est une **commande utilisateur**, destinée à Gemini, afin qu’il lise les fichiers pour Storyweaver.
+
+---
+
+### 🧭 1. Principes du système de CHARGEMENT
+
+- Gemini **ne peut pas explorer ton Drive tout seul**.
+    
+- Tu dois **fournir les fichiers** explicitement par :
+    
+    - Upload direct
+    - Sélecteur Google Drive
+    - URL Drive
+    - URL GitHub RAW
+    - Dossier Drive (Workspace Pro/Enterprise)
+- Une fois le fichier transmis, Storyweaver :
+    
+    - lit le contenu `.md`
+    - parse le frontmatter
+    - classe l’entrée dans le **Lore Ledger** selon ton instruction
+    - met à jour sa **mémoire contextuelle**
+
+---
+
+### 📂 2. Les commandes officielles de CHARGEMENT
+
+#### 🟦 A) Chargement d’un fichier unique
+
+Utilise cette commande **juste après avoir uploadé ou fourni l’URL du fichier** :
+
+```
+CHARGEMENT — FICHIER UNIQUE
+Charge ce fichier en tant que [Validated Lore | Pending Lore | Player Character | Reference].
+```
+
+Exemples :
+
+```
+Charge ce fichier en tant que Validated Lore.
+```
+
+```
+Charge ce fichier en tant que Player Character.
+```
+
+---
+
+#### 🟩 B) Chargement en lot (batch de fichiers)
+
+À utiliser lorsque tu fournis plusieurs fichiers (uploadés ou listés) :
+
+```
+CHARGEMENT — BATCH DE FICHIERS
+Charge tous les fichiers suivants en tant que [TYPE] :
+- PC-0001_Fenryx.md
+- PC-0002_Ouka.md
+- PC-0003_Tyron.md
+```
+
+Où **TYPE** =
+
+- Validated Lore
+- Pending Lore
+- Player Character
+- Reference
+
+---
+
+#### 🟨 C) Chargement d’un dossier Drive complet
+
+_(Disponible si Gemini a accès au dossier Drive — généralement Workspace Pro/Enterprise)_
+
+```
+CHARGEMENT — DOSSIER
+Charge tous les fichiers du dossier suivant en tant que [TYPE] :
+https://drive.google.com/drive/folders/ABCDE12345
+```
+
+Gemini va alors :
+
+- lister les fichiers du dossier
+- les ouvrir un par un
+- transmettre le contenu à Storyweaver
+- Storyweaver les indexe (ID + category + status)
+
+---
+
+#### 🟥 D) Chargement via URL (Drive ou GitHub RAW)
+
+Pour un fichier public ou partageable :
+
+```
+CHARGEMENT — URL
+Charge le fichier suivant en tant que [TYPE] :
+https://drive.google.com/file/d/ABC123/view?usp=sharing
+```
+
+Pour GitHub RAW :
+
+```
+CHARGEMENT — URL
+Charge le fichier suivant en tant que Validated Lore :
+https://raw.githubusercontent.com/monrepo/Players/PC-0001_Fenryx.md
+```
+
+---
+
+### 📌 3. Types reconnus lors du CHARGEMENT
+
+Les types suivants sont **officiellement reconnus** :
+
+|Type|Usage|
+|---|---|
+|**Validated Lore**|Canon permanent|
+|**Pending Lore**|Idées non confirmées|
+|**Dismissed Lore**|Lore invalidé (rare)|
+|**Player Character**|Fiches PJ|
+|**Reference**|Œuvres de référence|
+|**Settings**|Paramètres mécaniques ou système|
+|**Session Notes**|Récaps, exports, etc.|
+
+Storyweaver ajuste automatiquement :
+
+- les **tags**
+- le **Lore Ledger**
+- le **Canon Hierarchy**
+
+---
+
+### 🧠 4. Ce que fait Storyweaver après CHARGEMENT
+
+Pour chaque fichier `.md` importé, Storyweaver :
+
+1. Parse le **frontmatter YAML**
+2. Identifie l’**ID**
+3. Identifie la **catégorie** (npc, location, player, reference…)
+4. Vérifie le **status** (validated / pending / dismissed)
+5. Ajoute l’entrée au :
+    - Lore Ledger
+    - Reference Ledger
+    - Player Ledger
+    - Memory Context
+6. Met à jour le **Canon Check** interne
+7. Confirme le chargement
+
+---
+
+### 🧱 5. Exemple complet (PJ)
+
+Après upload de `PC-0001_Fenryx.md` :
+
+```
+CHARGEMENT — FICHIER UNIQUE
+Charge ce fichier en tant que Player Character (Validated Lore).
+```
+
+Réponse attendue de Storyweaver :
+
+- confirmation du statut
+- ajout au Player Ledger
+- intégration dans le Lore Ledger
+- génération de backlinks (si présents dans le .md)
+
+---
+
+### 🧩 6. Commande universelle (version simple)
+
+Si tu veux éviter les variations :
+
+```
+Charge ce fichier en tant que [TYPE].
+```
+
+ou
+
+```
+Charge ces fichiers en tant que [TYPE].
+```
+
+---
+
+### 🏁 7. Quand utiliser CHARGEMENT dans le workflow ?
+
+L’ordre recommandé :
+
+1. Master Prompt v3
+2. **CHARGEMENT : 02_Settings_Mechanics.md**
+3. **CHARGEMENT : 03_Reference_Ledger.md**
+4. **CHARGEMENT : Lore Validé (.md)**
+5. **CHARGEMENT : Players (.md)**
+6. Canon Check
+7. SESSION START

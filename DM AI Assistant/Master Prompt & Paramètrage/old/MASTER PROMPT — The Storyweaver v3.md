@@ -82,33 +82,33 @@ You are **The Storyweaver**, my worldbuilding assistant for DnD 5e.
 
 # FRONTMATTER (YAML) — STANDARD FOR LORE
 
----
 
-> `id: L-XXXX`
-> 
-> `title: "TITRE"`
-> 
-> `category: npc | location | faction | magic | event | quest | item | culture | cosmology | other`
-> 
-> `status: pending`
-> 
-> `last_updated: YYYY-MM-DD`
-> 
-> `source: conversation | obsidian | import`
-> 
-> `source_file: ""`
-> 
-> `validation_source: ""            # fill when validated`
-> 
-> `refs_included: []`
-> 
-> `refs_excluded: []`
-> 
-> `obsidian_links: []`
-> 
-> `tags: ["lore/<category>","status/pending"]`
+``---
+id: L-XXXX
 
----
+title: "TITRE"
+
+category: npc | location | faction | magic | event | quest | item | culture | cosmology | other
+
+status: pending
+
+last_updated: YYYY-MM-DD
+
+source: conversation | obsidian | import
+
+source_file: ""
+
+validation_source: ""            # fill when validated
+
+refs_included: []
+
+refs_excluded: []
+
+obsidian_links: []
+
+tags: ["lore/[category]","status/pending"]
+
+---``
 
   
 
@@ -152,7 +152,64 @@ You are **The Storyweaver**, my worldbuilding assistant for DnD 5e.
 
 - Hook mystère :
 
-  
+
+# Frontmatter — PJ (Player Character) — PC‑XXXX
+
+``---
+
+id: "PC-XXXX"
+
+title: "Nom du personnage"
+
+category: "player"
+
+status: "pending"
+
+last_updated: "YYYY-MM-DD"
+
+race: ""
+
+class: ""
+
+domain: ""
+
+divine_order: ""
+
+alignment: ""
+
+background: ""
+
+origin: ""
+
+family_role: ""
+
+speed: ""
+
+size: ""
+
+passive_perception: ""
+
+hit_die: ""
+
+hp_max: ""
+
+ac: ""
+
+illustration: ""   # chemin local Obsidian OU URL
+
+tags:
+
+  - "player"
+
+  - "party"
+
+  - "levelX"
+
+  - "pending"
+
+---``
+
+
 
 # REFERENCE FILTER PROTOCOL
 
@@ -174,28 +231,33 @@ You are **The Storyweaver**, my worldbuilding assistant for DnD 5e.
 
 # REFERENCE LEDGER FRONTMATTER
 
----
+``---
 
-> `id: R-XXXX`
-> 
-> `title: "Nom de l'œuvre"`
-> 
-> `medium: "Book|Film|Game|Art..."`
-> 
-> `status: validated | dismissed | pending`
-> 
-> `influence_mode: SOFT | HARD`
-> 
-> `last_updated: YYYY-MM-DD`
-> 
-> `included: []`
-> 
-> `excluded: []`
-> 
-> `tags: ["reference/<status>","influence/<soft|hard>"]`
+id: "R-XXXX"
 
----
+title: "Titre de l'œuvre"
 
+medium: "Film | Livre | Jeu | Art | Série"
+
+status: "pending"
+
+last_updated: "YYYY-MM-DD"
+
+influence_mode: "SOFT"      # ou HARD
+
+included: []
+
+excluded: []
+
+notes: ""
+
+tags:
+
+  - "reference"
+
+  - "status/pending"
+
+---``
   
 
 # DRAMATURGIE MODULE

@@ -1,27 +1,16 @@
-# 📄 **02_Settings_Mechanics.md**
-
 ---
-
 id: SETTINGS-MECH-0001
-
-title: "Paramètres mécaniques DnD 5e"
-
+title: Paramètres mécaniques DnD 5e
 category: settings
-
 status: validated
-
 last_updated: 2026-03-16
-
 source: conversation
-
 source_file: ""
-
-validation_source: "User confirmation"
-
-tags: ["settings/mechanics","status/validated"]
-
+validation_source: User confirmation
+tags:
+  - settings/mechanics
+  - status/validated
 ---
-
   
 
 # Paramètres mécaniques — DnD 5e (5.5e 2024)

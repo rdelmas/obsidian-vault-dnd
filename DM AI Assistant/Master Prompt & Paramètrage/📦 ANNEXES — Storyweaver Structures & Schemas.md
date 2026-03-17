@@ -250,6 +250,16 @@ status: pending
 
 last_updated: 2026-03-16  
 
+giver: ""        # NPC-XXXX
+
+location: ""     # L-XXXX
+
+reward: ""
+
+danger: ""
+
+illustration: ""
+
 quest_type: main | side | faction  
 
 state: active | completed | failed | dormant  
@@ -257,6 +267,33 @@ state: active | completed | failed | dormant
 related: ["[[L-0234]]","[[N-0191]]"]  
 
 tags: ["lore/quest","status/pending"]  
+---
+```
+
+### 1.8 Autre — O-XXXX
+```yaml
+---
+
+id: "O-XXXX"
+
+title: "Élément divers / système / règle"
+
+category: "other"
+
+status: "pending"
+
+last_updated: "YYYY-MM-DD"
+
+type: ""     # phénomène, règle, entité non classée…
+
+illustration: ""
+
+tags:
+
+  - "lore/other"
+
+  - "status/pending"
+
 ---
 ```
 
@@ -803,6 +840,103 @@ INT [ ] ([ ]) • SAG [ ] ([ ]) • CHA [ ] ([ ]) 
 - …
 ```
 
+### 2.7 Quest Entry
+```markdown
+# Résumé
+
+But de la quête en 2–3 phrases.
+
+  
+
+## Objectifs
+
+- Objectif principal :
+
+- Objectifs secondaires :
+
+  
+
+## Déroulé
+
+- Étape 1 :
+
+- Étape 2 :
+
+- Étape 3 :
+
+  
+
+## PNJ & Factions Liées
+
+- NPC : [[N-...]]
+
+- Faction : [[F-...]]
+
+  
+
+## Obstacles
+
+- Combat :
+
+- Social :
+
+- Exploration :
+
+  
+
+## Hooks
+
+- Variante 1 :
+
+- Variante 2 :
+
+  
+
+## Canon & Retcon
+
+- Change Log :
+
+```
+
+
+### 2.8 Autre (mécanique maison, phénomène, système, règle locale...)
+```markdown
+## Description
+
+1–3 paragraphes.
+
+  
+
+## Fonctionnement / Impact
+
+- Effet :
+
+- Limites :
+
+- Coût / risque :
+
+  
+
+## Interactions
+
+- Lieux : [[L-...]]
+
+- Factions : [[F-...]]
+
+  
+
+## Hooks
+
+- Scénario :
+
+- Dérive potentielle :
+
+  
+
+## Canon & Retcon
+
+- Change Log :
+```
 ---
 
 ## 3) Commandes — Rappel (à utiliser dans la session)
@@ -832,7 +966,7 @@ INT [ ] ([ ]) • SAG [ ] ([ ]) • CHA [ ] ([ ]) 
 - **EXPORT**  
     `MODE: EXPORT — Prépare Export Pack (bulk .md + index CSV + Session Summary).`
     
-
+```markdown
 ---
 
 ## 4) Note d’usage (charger cet annexe)
@@ -858,4 +992,57 @@ Si Storyweaver t’indique :
 3) Travaille normalement (LORE ENGINE / DRAMATURGIE / REFERENCE FILTER / EXPORT).  
 
 Si tu veux, je peux aussi te livrer une **“V4 Extended”** (Core + plus d’exemples guidés + protocoles détaillés) — mais **tu n’injecteras que le Core** dans Gemini, et tu chargeras l’annexe au besoin.
-```
+
+## 4 Liste des types d’éléments reconnus par le moteur Storyweaver (V4)
+
+Tu peux les considérer comme “types officiels” :
+
+| Préfixe                | Type                                           | Inclus dans Master Prompt ? | Présent dans Annexes ? |
+| ---------------------- | ---------------------------------------------- | --------------------------- | ---------------------- |
+| **PC-XXXX**            | Player Character                               | ✔ oui                       | ✔ oui                  |
+| **N-XXXX**             | NPC                                            | ✔ oui                       | ✔ oui                  |
+| **L-XXXX**             | Lore générique (fallback)                      | ✔ oui                       | ✔ oui                  |
+| **Q-XXXX**             | Quest                                          | ❌                           | ✔ oui                  |
+| **F-XXXX**             | Faction                                        | ❌                           | ❌ (ajouté sur demande) |
+| **C-XXXX**             | Culture / Religion                             | ❌                           | ❌ (ajouté sur demande) |
+| **M-XXXX**             | Magic Item / Object                            | ❌                           | ❌                      |
+| **E-XXXX**             | Event / Événement                              | ❌                           | ❌                      |
+| **O-XXXX**             | Other (phénomènes, règles locales, anomalies…) | ❌                           | ✔ oui                  |
+| **SETTINGS-MECH-0001** | Settings mécaniques                            | ✔ oui                       | ✔ oui                  |
+| **S-XXXX**             | Session Notes                                  | ✔ oui                       | ✔ oui                  |
+| **R-XXXX**             | Reference                                      | ✔ oui                       | ✔ oui                  |
+### 4.1 Ajouter un nouveau type dans le moteur
+
+#### ✔ Étape 1 — Choisir un préfixe unique
+
+Ex :
+
+- F → Faction
+- C → Culture ou Religion
+- M → Objet / Artefact
+- E → Événement
+- O → Autre (catch‑all générique)
+
+#### ✔ Étape 2 — Définir un **frontmatter YAML strict**
+
+Comme ceux de PC/NPC mais adaptés à ton élément.
+
+#### ✔ Étape 3 — Définir un **format interne** (sections de la note)
+
+– Résumé  
+– Détail  
+– Interactions  
+– Hooks  
+– Canon & Retcon  
+(et sections supplémentaires selon le type)
+
+#### ✔ Étape 4 — Ajouter ces formats dans ton fichier :
+
+👉 **ANNEXES — Storyweaver Structures & Schemas.md**
+
+#### ✔ Étape 5 — Storyweaver les utilisera automatiquement
+
+Car le Master Prompt V4 contient cette règle :
+
+> Si une structure n’est pas dans le contexte :  
+> **>>> CHARGER ANNEXES — STRUCTURES & SCHEMAS**

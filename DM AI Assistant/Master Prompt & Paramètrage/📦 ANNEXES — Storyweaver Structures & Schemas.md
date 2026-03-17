@@ -297,6 +297,60 @@ tags:
 ---
 ```
 
+### 1.9 Narrative Route — NR‑XXXX
+```yaml
+
+---
+
+id: "NR-XXXX"
+
+title: "Trajet narratif : <Start> → <Destination>"
+
+category: "narrative-route"
+
+status: "pending"
+
+last_updated: "YYYY-MM-DD"
+
+  
+
+# Paramètres de trajet
+
+start: "<point de départ>"                 # phrase courte
+
+destination: "<destination dramatique>"    # cliffhanger, milestone, révélation…
+
+  
+
+scope: "court|moyen|long"
+
+beats_target: 5
+
+  
+
+constraints:
+
+  must_include: []     # éléments indispensables (indices, scènes, ton, etc.)
+
+  must_avoid: []       # éléments à éviter (ex: combats prolongés)
+
+  themes: []           # thèmes à souligner (facultatif)
+
+  tone: "calme|tendu|mix"
+
+  risk: "faible|moyen|élevé"
+
+  spotlight: []        # optionnel (rotation de focus PJ, si tu l’utilises)
+
+  
+
+related_ids: []        # liens éventuels vers L/N/F/E/M/PC…
+
+tags: ["narrative-route","pending"]
+
+---
+```
+
 
 ## 2) Formats — Structures des notes .md
 
@@ -937,6 +991,60 @@ But de la quête en 2–3 phrases.
 
 - Change Log :
 ```
+
+### 2.9 Narrative Route — Structure (NR-XXXX)
+```markdown
+Waypoints (jalons)
+
+- W1 — …
+
+- W2 — …
+
+- W3 — …
+
+- W4 — …
+
+- W5 — …
+
+  
+
+# Beats proposés (itération)
+
+1) [Type] Objectif / effet de ce beat (État modifié, Indice/Gain)
+
+2) [Type] …
+
+3) [Type] …
+
+4) [Type] …
+
+5) [Type] …
+
+  
+
+# Branches (si applicable)
+
+- B1 (chemin alternatif) : …
+
+- B2 (chemin alternatif) : …
+
+  
+
+# Ressources / États modifiés
+
+- Indices posés : …
+
+- Relations évoluées : …
+
+- Drapeaux dramatiques : …
+
+  
+
+# À préparer (MJ)
+
+- …
+
+```
 ---
 
 ## 3) Commandes — Rappel (à utiliser dans la session)
@@ -993,7 +1101,7 @@ Si Storyweaver t’indique :
 
 Si tu veux, je peux aussi te livrer une **“V4 Extended”** (Core + plus d’exemples guidés + protocoles détaillés) — mais **tu n’injecteras que le Core** dans Gemini, et tu chargeras l’annexe au besoin.
 
-## 4 Liste des types d’éléments reconnus par le moteur Storyweaver (V4)
+## 4) Liste des types d’éléments reconnus par le moteur Storyweaver (V4)
 
 Tu peux les considérer comme “types officiels” :
 
@@ -1046,3 +1154,25 @@ Car le Master Prompt V4 contient cette règle :
 
 > Si une structure n’est pas dans le contexte :  
 > **>>> CHARGER ANNEXES — STRUCTURES & SCHEMAS**
+
+## 5) _Guide d’usage_ — rappeler la priorité “story‑first” et l’ordre de chargement
+
+Charger **03_dramaturgie_campaign_spine.md** (Spine narratif) avant **Players** / **Lore**.
+
+- La **trajectoire Start→Destination** du Spine pilote la génération : le lore (L/N/F/E/M…) n’est créé/étendu **que si** un Waypoint ou un Beat en exprime le besoin.
+
+- Pour demander un trajet : 
+
+  `MODE: DRAMATURGIE — PATHFINDER` + Start / Destination / scope / beats_target / constraints
+
+- Pour itérer entre deux sessions : 
+
+  `MODE: DRAMATURGIE — PATHFINDER (UPDATE)` → proposer 2–3 Beats suivants en conservant les contraintes.
+
+## 6) Fichier centrale de suivi narratif (Spine)
+
+Nom : `03_dramaturgie_campaign_spine.md` (Obsidian-ready)
+
+- Contient : START / DESTINATION, Acts, Route active (scope, beats_target, constraints), Waypoints, Beat list, Historique, Besoins en Lore.
+
+- Storyweaver doit l’avoir **chargé** avant toute proposition de Beats / événements.

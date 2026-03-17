@@ -35,6 +35,9 @@
 
 - 14. Chargement des données Drive au format .md
 
+- 15. Création infrastructure Drive et Apps Script
+
+
 
 
   
@@ -349,9 +352,12 @@ Le Storyweaver peut produire un bloc **CSV** pour append.
 
 **Checklist démarrage**
 
-- [ ]  Master Prompt v3 collé
+- [ ]  Master Prompt v4 collé
 - [ ]  (Optionnel) Mechanics configurés
 - [ ]  (Optionnel) Références validées
+- [ ]  Suivi de l'histoire de campagne
+- [ ]  Les personnage joueurs
+- [ ]  Le lore validé
 - [ ]  SESSION START + Agenda
 - [ ]  Créations en MODE: LORE ENGINE / DRAMATURGIE / SCÈNES
 - [ ]  Validations (VALIDE/PENDING/DISMISS)
@@ -436,7 +442,8 @@ Où **TYPE** =
 
 #### 🟨 C) Chargement d’un dossier Drive complet
 
-_(Disponible si Gemini a accès au dossier Drive — généralement Workspace Pro/Enterprise)_
+_(Disponible si Gemini a ac
+cès au dossier Drive — généralement Workspace Pro/Enterprise)_
 
 ```
 CHARGEMENT — DOSSIER
@@ -477,15 +484,15 @@ https://raw.githubusercontent.com/monrepo/Players/PC-0001_Fenryx.md
 
 Les types suivants sont **officiellement reconnus** :
 
-|Type|Usage|
-|---|---|
-|**Validated Lore**|Canon permanent|
-|**Pending Lore**|Idées non confirmées|
-|**Dismissed Lore**|Lore invalidé (rare)|
-|**Player Character**|Fiches PJ|
-|**Reference**|Œuvres de référence|
-|**Settings**|Paramètres mécaniques ou système|
-|**Session Notes**|Récaps, exports, etc.|
+| Type                 | Usage                            |
+| -------------------- | -------------------------------- |
+| **Validated Lore**   | Canon permanent                  |
+| **Pending Lore**     | Idées non confirmées             |
+| **Dismissed Lore**   | Lore invalidé (rare)             |
+| **Player Character** | Fiches PJ                        |
+| **Reference**        | Œuvres de référence              |
+| **Settings**         | Paramètres mécaniques ou système |
+| **Session Notes**    | Récaps, exports, etc.            |
 
 Storyweaver ajuste automatiquement :
 
@@ -558,3 +565,59 @@ L’ordre recommandé :
 5. **CHARGEMENT : Players (.md)**
 6. Canon Check
 7. SESSION START
+
+## 15. Création infrastructure Drive et Apps Script 
+
+### 🧩 1) Créer l’infrastructure Drive Storyweaver
+
+Dans ton Google Drive, crée le dossier racine :
+
+```
+/Storyweaver
+```
+
+Puis à l’intérieur :
+
+```
+/Storyweaver
+   /Players
+   /NPC
+   /Lore
+   /Quests
+   /Events
+   /Items
+   /Factions
+   /Cultures
+   /Sessions
+   /Exports
+   /Scripts
+```
+
+> Tu peux modifier les dossiers selon tes besoins, mais cette structure correspond **exactement** aux annexes que nous avons définies ensemble.
+
+### 🧩 2) Créer la "base de données" des IDs dans Google Sheets
+
+Dans Google Drive → Nouveau → **Google Sheets**
+
+Nom du fichier :  
+**Storyweaver_ID_Registry**
+
+Crée un onglet : **IDs**
+
+Avec CHAMPS :
+
+|prefix|last_number|
+|---|---|
+|PC|3|
+|N|1|
+|L|32|
+|Q|4|
+|F|2|
+|C|1|
+|M|1|
+|E|1|
+|O|1|
+
+_(Ce tableau est un exemple : mets les valeurs réelles du moment.)_
+
+Ce sera la **source de vérité** pour générer automatiquement les identifiants.

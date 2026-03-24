@@ -57,7 +57,7 @@ Zone grise, amnisties, lettres déguisées, droits informels.
 ---
 # Résumé MJ — Le Complot
 **Trois étages convergent :**
-1. **Larme de Fer** → manipule anomalies via périphérique du nœud.
+1. **Larme de Fer** → provoque des anomalie via des manipulation sur le noeud.
 2. **Bellicistes d’Edelmark** → exploitent incidents pour pousser à l’escalade.
 3. **Osmard Delvore (L‑0012)** → filtre rapports, réoriente PJ, affaiblit Ysandre.
 

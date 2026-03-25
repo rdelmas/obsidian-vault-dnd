@@ -1,8 +1,8 @@
 ---
 prompt_version: "5.4"
-prompt_date: "2026-03-22"
-file_role: "master_prompt"
-compatibility: "SETTINGS-ANNEX-SCHEMAS v5.4 • SPINE v4 • PF_PLAYBOOK v1"
+prompt_date: 2026-03-22
+file_role: prompt
+compatibility: SETTINGS-ANNEX-SCHEMAS v5.4 • SPINE v4 • PF_PLAYBOOK v1
 ---
 
 # 0) Comment utiliser ce document — *Guide rapide (Lisible+)*

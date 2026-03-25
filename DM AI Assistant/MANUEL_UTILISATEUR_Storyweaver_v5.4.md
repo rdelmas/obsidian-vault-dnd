@@ -200,6 +200,20 @@ SESSION END (Résumé + Next Seeds + Export)
 - L’Index global ne recense **que** le contenu **validé** (arcs, scènes, Lore/PNJ/Lieux).  
 - Les drafts restent hors index jusqu’à validation explicite.
 
+## 6.6 Workflow mode SideQuests
+### Workflow — Mode Side Quests (S×L)
+
+1. Charger le SPINE. 
+2. Charger ou créer `Side_Quests_Campagne.md`. 
+3. Charger les Références (optionnel). 
+4. Extraire les Sources (S). 
+5. Extraire les Liens narratifs (L). 
+6. Construire la matrice S×L. 
+7. Générer 3–6 hooks. 
+8. Présenter au MJ pour validation ou modification. 
+9. Archiver les Hooks validés dans le Ledger. 
+10. Mettre à jour l’Index Global (VALIDÉ) si nécessaire.
+
 ---
 # 7) SPINE (campagne) — *source unique de vérité*
 **Flash 10s** : Le SPINE **décrit la campagne** (donc spécifique). Il contient ce que Pathfinder doit exploiter : **TL;DR, Arcs, Scènes, Beats mapping**, **placeholders** et **runtime_state**.

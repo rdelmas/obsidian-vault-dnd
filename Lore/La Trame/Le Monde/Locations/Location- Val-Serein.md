@@ -12,7 +12,7 @@ cover-image:
 > | Type of Settlement | Village |
 > | ---- | ---- |
 > | Continent | Elysée |
-> | Maire | Kenrith |
+> | Maire | Roric |
 > | Population | ~400 |
 > | Size | 0.5km² |
 > | Languages | Commun |

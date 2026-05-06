@@ -1,31 +1,31 @@
 ---
-id: "PC-0002"
-title: "Ouka"
-category: "player"
-status: "validated"
-last_updated: "2026-03-16"
-race: "Goliath (Hill Giant Ancestry)"
-class: "Barbare"
-subclass: ""
-domain: ""
-divine_order: ""
-level: "1"
-background: "Soldat"
-alignment: "Chaotique Bon"
-origin: "Repos-des-Vents"
-family_role: ""
-speed: "9 m"
-size: "M"
-passive_perception: "11"
-hit_die: "d12"
-hp_max: 14
+id: PC-0002
+title: Ouka
+category: player
+status: validated
+last_updated: 2026-05-04T00:00:00.000Z
+race: Goliath (Hill Giant Ancestry)
+class: Barbare
+subclass: ''
+domain: ''
+divine_order: ''
+level: '2'
+background: Soldat
+alignment: Chaotique Bon
+origin: Repos-des-Vents
+family_role: ''
+speed: 9 m
+size: M
+passive_perception: '11'
+hit_die: d12
+hp_max: '17'
 ac: 14
-illustration: ""
+illustration: ''
 tags:
-  - "player"
-  - "party"
-  - "level1"
-  - "validated"
+  - player
+  - party
+  - validated
+  - level2
 ---
 
 ## Résumé
@@ -83,6 +83,12 @@ Recueillie enfant par un vieil ermite vivant au pied des collines de **Repos-des
 - **Rage** (activation bonus, effets selon table)  
 - **Defense sans armure**  
 
+
+
+#### **Barbare niveau 2**
+- **Attaque Téméraire (Reckless Attack)** : au début de ton premier tour d'attaque, tu peux décider d'attaquer avec Avantage sur tous tes jets d'attaque ce tour — mais les ennemis ont Avantage sur leurs jets d'attaque contre toi jusqu'à ton prochain tour.  
+- **Sens du Danger (Danger Sense)** : Avantage sur les jets de sauvegarde de DEX contre les effets que tu peux voir (pièges, sorts, etc.), à condition de ne pas être Aveuglée, Assourdie ou Incapable.
+
 #### **Goliath 2024 — Traits raciaux**
 - **Vitesse : 35 ft**  
 - **Giant Ancestry (Hill Giant — “Hill’s Tumble”)**  
@@ -123,3 +129,5 @@ Backlinks : [[L-XXXX_Repos-des-Vents]], [[N-XXXX_Ermite]], [[N-XXXX_Escouade-Ouk
 - Aucun conflit détecté.  
 - **Change Log :**  
   - [2026-03-16] Création et validation de la fiche.
+#level2
+  - [2026-05-04] Passage niveau 2 — HP max 14 → 17 (roll 1d12+2 = 3) ; ajout Attaque Téméraire & Sens du Danger ; tag level1 → level2.
